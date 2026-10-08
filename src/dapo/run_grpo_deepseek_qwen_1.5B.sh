@@ -45,7 +45,7 @@ NNODES=${NNODES:-1} # confirm
 # confirm
 MODEL_PATH=${MODEL_PATH:-"path/to/sft/model"}
 CKPTS_DIR=${CKPTS_DIR:-"path/to/save/model"}
-TRAIN_FILE=${TRAIN_FILE:-"data/grpo.parquet"}
+TRAIN_FILE=${TRAIN_FILE:-"data/deepscaler_select_25k.parquet"}
 TEST_FILE=${TEST_FILE:-"data/test.parquet"} 
 
 # Algorithm
