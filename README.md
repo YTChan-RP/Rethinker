@@ -7,9 +7,6 @@
 - [Code Information](#code-information)
 - [Requirements](#requirements)
 - [Usage Instructions](#usage-instructions)
-- [Methodology](#methodology)
-- [Citations](#citations)
-- [License & Contribution Guidelines](#license--contribution-guidelines)
 
 ## Description
 This repository contains the code and data used for **Rethinker: A three-stage efficient inference framework for large language models**. The workflow includes:
