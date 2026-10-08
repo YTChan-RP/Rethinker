@@ -10,10 +10,10 @@
 
 ## Description
 This repository contains the code and data used for **Rethinker: A three-stage efficient inference framework for large language models**. The workflow includes:
-1. SFT data generation from selected DeepScaleR samples.
-2. SFT training with ms-swift.
-3. M-TGRPO training with verl.
-4. Evaluation on GSM8K, MATH-500, and AIME-2025 using EvalScope.
+1. SFT data generation from DeepScaleR samples.
+2. SFT training.
+3. M-TGRPO training.
+4. Evaluation on GSM8K, MATH-500, and AIME-2025.
 
 ## Repository Structure
 ```text
